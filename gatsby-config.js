@@ -10,9 +10,9 @@
 module.exports = {
   pathPrefix: "/e-commerce-template",  
   siteMetadata: {
-    title: "E-commerce web template",
-    description: "A web template for an e-commerce website",
-    author: "Wegah Studios",
+    title: "behind chinese names: chinese name generator and checker",
+    description: "A tool for those who want to learn more chinese",
+    author: "Heisenberg",
   },
   plugins: [
     {
